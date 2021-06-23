@@ -6,5 +6,5 @@ Too often swell arrives later than predicted, by checking the buoy data you can 
 ##### 🔨Technologies: SwiftUI, Combine, MVVM, Bitrise, Notifications, No third party libraries.
 ##### 🚀Platform: 📱iOS, ⌚️watchOS
 <p align="center">
-<a href="https://github.com/McHutov/iOS-Portfolio/tree/master/iOS-Projects/Cheaklists" target="_blank"><img src="images/Checklist-img.jpg" width="900" title="Checklist"></a>
+<a href="https://github.com/McHutov/iOS-Portfolio/tree/master/iOS-Projects/Cheaklists" target="_blank"><img src="images/Checklist-img.png" width="900" title="Checklist"></a>
 </p>
