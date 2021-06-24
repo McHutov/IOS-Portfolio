@@ -3,8 +3,8 @@
 It allows you to get real-time marine buoys data and get aware when the surf is good at a glance.
 Too often swell arrives later than predicted, by checking the buoy data you can determine if the swell has arrived. If not, you can go back to bed =)
 
-##### 🔨Technologies: SwiftUI, Combine, MVVM, Bitrise, Notifications, No third party libraries.
-##### 🚀Platform: 📱iOS, ⌚️watchOS
+##### 🔨Technologies: UIKit, Notifications, UserDefaults No third party libraries.
+##### 🚀Platform: 📱iOS
 <p align="center">
 <a href="https://github.com/McHutov/iOS-Portfolio/tree/master/iOS-Projects/Cheaklists" target="_blank"><img src="images/Checklist-img.png" width="1200" title="Checklist"></a>
 </p>
