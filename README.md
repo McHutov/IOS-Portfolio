@@ -1,7 +1,7 @@
 ## VendingMachine 
-[VendingMachine](hhttps://github.com/McHutov/iOS-Portfolio/tree/master/iOS-Projects/Vending-Machine) is an iOS app where I tried to use **AVFoundation** to play MP3.
+[VendingMachine](hhttps://github.com/McHutov/iOS-Portfolio/tree/master/iOS-Projects/Vending-Machine) is an iOS app to simulate a randomizer.
 
-This was my first app where I tried to use the basics of the AVFoundation library. The main task of the application is to play popular Japanese phrases. In order not to look poor, I decided to add female and male voices. You can switch between voices in the lower right corner. 
+This application simulates throwing dice, if 3 identical ones are drawn, then you will receive a prize. The main goal was to learn how to use **UIImage**, **Array** and **Randomizer**.
 
 ##### 🔨Technologies: UIKit.
 ##### 🚀Platform: 📱iOS
