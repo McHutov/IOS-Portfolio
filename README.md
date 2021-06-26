@@ -1,5 +1,5 @@
 ## VoicePlay
-[VoicePlay](https://github.com/McHutov/iOS-Portfolio/tree/master/iOS-Projects/VoicePlay) is an iOS app where I tried to use ** AVFoundation ** to play MP3.
+[VoicePlay](https://github.com/McHutov/iOS-Portfolio/tree/master/iOS-Projects/VoicePlay) is an iOS app where I tried to use **AVFoundation** to play MP3.
 
 This was my first app where I tried to use the basics of the AVFoundation library. The main task of the application is to play popular Japanese phrases. In order not to look poor, I decided to add female and male voices. You can switch between voices in the lower right corner. 
 
