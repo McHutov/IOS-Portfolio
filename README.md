@@ -1,3 +1,14 @@
+## VendingMachine 
+[VendingMachine](hhttps://github.com/McHutov/iOS-Portfolio/tree/master/iOS-Projects/Vending-Machine) is an iOS app where I tried to use **AVFoundation** to play MP3.
+
+This was my first app where I tried to use the basics of the AVFoundation library. The main task of the application is to play popular Japanese phrases. In order not to look poor, I decided to add female and male voices. You can switch between voices in the lower right corner. 
+
+##### 🔨Technologies: UIKit.
+##### 🚀Platform: 📱iOS
+<p align="center">
+<a href="https://github.com/McHutov/iOS-Portfolio/tree/master/iOS-Projects/Vending-Machine" target="_blank"><img src="images/Vending-machine-img.png" width="1200" title="VendingMachine"></a>
+</p>
+
 ## VoicePlay
 [VoicePlay](https://github.com/McHutov/iOS-Portfolio/tree/master/iOS-Projects/VoicePlay) is an iOS app where I tried to use **AVFoundation** to play MP3.
 
